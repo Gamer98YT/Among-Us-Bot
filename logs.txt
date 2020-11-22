@@ -1,0 +1,256 @@
+2020/11/07 16:27:29 2.0.5-Prerelease
+2020/11/07 16:27:29 Invalid or no particular SERVER_PORT provided. Defaulting to 8123
+2020/11/07 16:27:30 Bot is now running.  Press CTRL-C to exit.
+2020/11/07 16:27:30 Serving at localhost:8123...
+2020/11/07 16:27:30 Added to new Guild, id 686607027719766017, name servidor para probar bots
+2020/11/07 16:27:31 Added to new Guild, id 752232749523533854, name callejeros viajeros
+2020/11/07 16:27:31 HTTP 403 Forbidden, {"message": "Missing Access", "code": 50001}
+2020/11/07 16:27:31 Updated members for guild 686607027719766017
+2020/11/07 16:27:31 HTTP 403 Forbidden, {"message": "Missing Access", "code": 50001}
+2020/11/07 16:27:31 Updated members for guild 752232749523533854
+2020/11/07 16:27:55 connected: 1
+2020/11/07 16:29:38 7F1C22
+2020/11/07 16:29:38 User that typed new is in the "Rocket league 2" voice channel; using that for tracking
+2020/11/07 16:29:38 Added self game state message
+2020/11/07 16:29:54 Client connection closed:  client namespace disconnect
+2020/11/07 16:29:54 meet error: websocket: close 1006 (abnormal closure): unexpected EOF
+2020/11/07 16:29:58 connected: 2
+2020/11/07 16:30:10 player received from capture:  {"Action":0,"Name":"","IsDead":false,"Disconnected":false,"Color":0}
+2020/11/07 16:30:10 This websocket is not associated with any guilds
+2020/11/07 16:30:10 player received from capture:  {"Action":0,"Name":"SoyPeter","IsDead":false,"Disconnected":false,"Color":8}
+2020/11/07 16:30:10 This websocket is not associated with any guilds
+2020/11/07 16:30:10 player received from capture:  {"Action":1,"Name":"","IsDead":false,"Disconnected":false,"Color":0}
+2020/11/07 16:30:10 This websocket is not associated with any guilds
+2020/11/07 16:30:19 set connect code: 7F1C22
+2020/11/07 16:30:19 Associated websocket id 2 with guildID 752232749523533854 using code 7F1C22
+2020/11/07 16:30:19 phase received from capture:  0
+2020/11/07 16:30:19 Pushing phase event to channel
+2020/11/07 16:30:19 player received from capture:  {"Action":4,"Name":"Gamer 98","IsDead":false,"Disconnected":false,"Color":10}
+2020/11/07 16:30:19 Received PhaseUpdate message for guild 752232749523533854
+2020/11/07 16:30:19 Received PlayerUpdate message for guild 752232749523533854
+2020/11/07 16:30:19 Added new player instance for Gamer 98
+2020/11/07 16:30:19 player received from capture:  {"Action":4,"Name":"khalifa","IsDead":false,"Disconnected":false,"Color":2}
+2020/11/07 16:30:20 Received PlayerUpdate message for guild 752232749523533854
+2020/11/07 16:30:20 Added new player instance for khalifa
+2020/11/07 16:30:20 player received from capture:  {"Action":4,"Name":"a\u00F1a\u00F1a\u00F1a","IsDead":false,"Disconnected":false,"Color":5}
+2020/11/07 16:30:20 Received PlayerUpdate message for guild 752232749523533854
+2020/11/07 16:30:20 Added new player instance for añañaña
+2020/11/07 16:30:20 player received from capture:  {"Action":4,"Name":"SoyPeter","IsDead":false,"Disconnected":false,"Color":8}
+2020/11/07 16:30:20 Received PlayerUpdate message for guild 752232749523533854
+2020/11/07 16:30:20 Added new player instance for SoyPeter
+2020/11/07 16:30:23 Player 458712703528206337 reacted with color cyan
+2020/11/07 16:30:23 Not unmuting Groovy because they're already unmuted
+2020/11/07 16:30:23 Not unmuting TTV-Gamer98_YTHD because they're already unmuted
+2020/11/07 16:30:23 Not unmuting sergio3355 because they're already unmuted
+2020/11/07 16:30:23 Not unmuting notjavier13 because they're already unmuted
+2020/11/07 16:30:23 Not unmuting Gil because they're already unmuted
+2020/11/07 16:30:23 Not unmuting Ivan_1405 because they're already unmuted
+2020/11/07 16:30:23 Not unmuting camello777 because they're already unmuted
+2020/11/07 16:30:23 Not unmuting Willyré because they're already unmuted
+2020/11/07 16:30:23 Not unmuting Miguel2007 because they're already unmuted
+2020/11/07 16:30:23 Not unmuting  because they're already unmuted
+2020/11/07 16:30:29 Removing player 458712703528206337
+2020/11/07 16:30:29 Not unmuting Groovy because they're already unmuted
+2020/11/07 16:30:29 Not unmuting TTV-Gamer98_YTHD because they're already unmuted
+2020/11/07 16:30:29 Not unmuting sergio3355 because they're already unmuted
+2020/11/07 16:30:29 Not unmuting notjavier13 because they're already unmuted
+2020/11/07 16:30:29 Not unmuting Gil because they're already unmuted
+2020/11/07 16:30:29 Not unmuting Ivan_1405 because they're already unmuted
+2020/11/07 16:30:29 Not unmuting camello777 because they're already unmuted
+2020/11/07 16:30:29 Not unmuting Willyré because they're already unmuted
+2020/11/07 16:30:29 Not unmuting Miguel2007 because they're already unmuted
+2020/11/07 16:30:29 Not unmuting  because they're already unmuted
+2020/11/07 16:31:43 phase received from capture:  1
+2020/11/07 16:31:43 Pushing phase event to channel
+2020/11/07 16:31:43 Received PhaseUpdate message for guild 752232749523533854
+2020/11/07 16:31:43 Detected transition to Tasks
+2020/11/07 16:31:43 Sleeping for 7 secs before changes
+2020/11/07 16:31:43 Not unmuting Groovy because they're already unmuted
+2020/11/07 16:31:43 Not unmuting TTV-Gamer98_YTHD because they're already unmuted
+2020/11/07 16:31:43 Not unmuting sergio3355 because they're already unmuted
+2020/11/07 16:31:43 Not unmuting notjavier13 because they're already unmuted
+2020/11/07 16:31:43 Not unmuting Gil because they're already unmuted
+2020/11/07 16:31:43 Not unmuting Ivan_1405 because they're already unmuted
+2020/11/07 16:31:43 Not unmuting camello777 because they're already unmuted
+2020/11/07 16:31:43 Not unmuting Willyré because they're already unmuted
+2020/11/07 16:31:43 Not unmuting Miguel2007 because they're already unmuted
+2020/11/07 16:31:43 Not unmuting  because they're already unmuted
+2020/11/07 16:31:43 HTTP 404 Not Found, {"message": "Unknown Message", "code": 10008}
+2020/11/07 16:32:12 player received from capture:  {"Action":2,"Name":"a\u00F1a\u00F1a\u00F1a","IsDead":true,"Disconnected":false,"Color":5}
+2020/11/07 16:32:12 Received PlayerUpdate message for guild 752232749523533854
+2020/11/07 16:32:12 Updated { Name: añañaña, Color: yellow, Alive: false }
+2020/11/07 16:32:12 NOT updating the discord status message; would leak info
+2020/11/07 16:32:39 phase received from capture:  0
+2020/11/07 16:32:39 Pushing phase event to channel
+2020/11/07 16:32:39 Received PhaseUpdate message for guild 752232749523533854
+2020/11/07 16:32:39 Detected transition to Lobby
+2020/11/07 16:32:39 Sleeping for 1 secs before changes
+2020/11/07 16:32:39 player received from capture:  {"Action":2,"Name":"SoyPeter","IsDead":true,"Disconnected":false,"Color":8}
+2020/11/07 16:32:39 Not unmuting Groovy because they're already unmuted
+2020/11/07 16:32:39 Not unmuting TTV-Gamer98_YTHD because they're already unmuted
+2020/11/07 16:32:39 Not unmuting sergio3355 because they're already unmuted
+2020/11/07 16:32:39 Not unmuting notjavier13 because they're already unmuted
+2020/11/07 16:32:39 Not unmuting Gil because they're already unmuted
+2020/11/07 16:32:39 Not unmuting Ivan_1405 because they're already unmuted
+2020/11/07 16:32:39 Not unmuting camello777 because they're already unmuted
+2020/11/07 16:32:39 Not unmuting Willyré because they're already unmuted
+2020/11/07 16:32:39 Not unmuting Miguel2007 because they're already unmuted
+2020/11/07 16:32:39 Not unmuting  because they're already unmuted
+2020/11/07 16:32:39 HTTP 404 Not Found, {"message": "Unknown Message", "code": 10008}
+2020/11/07 16:32:39 Received PlayerUpdate message for guild 752232749523533854
+2020/11/07 16:32:39 Received a dead event, but we're in the Lobby, so I'm ignoring it
+2020/11/07 16:32:42 player received from capture:  {"Action":0,"Name":"","IsDead":false,"Disconnected":false,"Color":0}
+2020/11/07 16:32:42 player received from capture:  {"Action":1,"Name":"khalifa","IsDead":false,"Disconnected":false,"Color":2}
+2020/11/07 16:32:42 Received PlayerUpdate message for guild 752232749523533854
+2020/11/07 16:32:42 Received PlayerUpdate message for guild 752232749523533854
+2020/11/07 16:32:42 player received from capture:  {"Action":1,"Name":"a\u00F1a\u00F1a\u00F1a","IsDead":true,"Disconnected":false,"Color":5}
+2020/11/07 16:32:42 player received from capture:  {"Action":1,"Name":"SoyPeter","IsDead":true,"Disconnected":false,"Color":8}
+2020/11/07 16:32:42 Received PlayerUpdate message for guild 752232749523533854
+2020/11/07 16:32:42 Received a dead event, but we're in the Lobby, so I'm ignoring it
+2020/11/07 16:32:42 Received PlayerUpdate message for guild 752232749523533854
+2020/11/07 16:32:42 Received a dead event, but we're in the Lobby, so I'm ignoring it
+2020/11/07 16:32:43 player received from capture:  {"Action":0,"Name":"SoyPeter","IsDead":false,"Disconnected":false,"Color":8}
+2020/11/07 16:32:43 player received from capture:  {"Action":1,"Name":"","IsDead":false,"Disconnected":false,"Color":0}
+2020/11/07 16:32:43 Received PlayerUpdate message for guild 752232749523533854
+2020/11/07 16:32:43 Received PlayerUpdate message for guild 752232749523533854
+2020/11/07 16:32:51 player received from capture:  {"Action":1,"Name":"SoyPeter","IsDead":false,"Disconnected":false,"Color":8}
+2020/11/07 16:32:51 Received PlayerUpdate message for guild 752232749523533854
+2020/11/07 16:32:57 player received from capture:  {"Action":0,"Name":"a\u00F1a\u00F1a\u00F1a","IsDead":false,"Disconnected":false,"Color":5}
+2020/11/07 16:32:57 Received PlayerUpdate message for guild 752232749523533854
+2021/03/01 16:33:08 phase received from capture:  3
+2021/03/01 16:33:08 Pushing phase event to channel
+2021/03/01 16:33:08 Received PhaseUpdate message for guild 752232749523533854
+2021/03/01 16:33:08 Detected transition to Menu; not doing anything about it yet
+2021/03/01 16:33:10 phase received from capture:  0
+2021/03/01 16:33:10 Pushing phase event to channel
+2021/03/01 16:33:10 Received PhaseUpdate message for guild 752232749523533854
+2021/03/01 16:33:12 player received from capture:  {"Action":1,"Name":"a\u00F1a\u00F1a\u00F1a","IsDead":false,"Disconnected":false,"Color":5}
+2021/03/01 16:33:12 Received PlayerUpdate message for guild 752232749523533854
+2021/03/01 16:33:30 [DG0] wsapi.go:304:heartbeat() haven't gotten a heartbeat ACK in 2736h0m29.1420853s, triggering a reconnection
+2020/03/01 16:33:28 [DG0] wsapi.go:82:Open() error connecting to gateway wss://gateway.discord.gg/?v=6&encoding=json, x509: certificate has expired or is not yet valid: 
+2020/03/01 16:33:28 [DG0] wsapi.go:835:reconnect() error reconnecting to gateway, x509: certificate has expired or is not yet valid: 
+2020/03/01 16:33:29 [DG0] wsapi.go:82:Open() error connecting to gateway wss://gateway.discord.gg/?v=6&encoding=json, x509: certificate has expired or is not yet valid: 
+2020/03/01 16:33:29 [DG0] wsapi.go:835:reconnect() error reconnecting to gateway, x509: certificate has expired or is not yet valid: 
+2020/03/01 16:33:31 [DG0] wsapi.go:82:Open() error connecting to gateway wss://gateway.discord.gg/?v=6&encoding=json, x509: certificate has expired or is not yet valid: 
+2020/03/01 16:33:31 [DG0] wsapi.go:835:reconnect() error reconnecting to gateway, x509: certificate has expired or is not yet valid: 
+2020/03/01 16:33:32 phase received from capture:  3
+2020/03/01 16:33:32 Pushing phase event to channel
+2020/03/01 16:33:32 Received PhaseUpdate message for guild 752232749523533854
+2020/03/01 16:33:32 Detected transition to Menu; not doing anything about it yet
+2020/03/01 16:33:34 phase received from capture:  0
+2020/03/01 16:33:34 Pushing phase event to channel
+2020/03/01 16:33:34 Received PhaseUpdate message for guild 752232749523533854
+2020/03/01 16:33:35 [DG0] wsapi.go:82:Open() error connecting to gateway wss://gateway.discord.gg/?v=6&encoding=json, x509: certificate has expired or is not yet valid: 
+2020/03/01 16:33:35 [DG0] wsapi.go:835:reconnect() error reconnecting to gateway, x509: certificate has expired or is not yet valid: 
+2020/03/01 16:33:43 [DG0] wsapi.go:82:Open() error connecting to gateway wss://gateway.discord.gg/?v=6&encoding=json, x509: certificate has expired or is not yet valid: 
+2020/03/01 16:33:43 [DG0] wsapi.go:835:reconnect() error reconnecting to gateway, x509: certificate has expired or is not yet valid: 
+2020/03/01 16:33:46 phase received from capture:  3
+2020/03/01 16:33:46 Pushing phase event to channel
+2020/03/01 16:33:46 Received PhaseUpdate message for guild 752232749523533854
+2020/03/01 16:33:46 Detected transition to Menu; not doing anything about it yet
+2020/04/01 16:33:56 [DG0] wsapi.go:835:reconnect() error reconnecting to gateway, Get "https://discord.com/api/v6/gateway": x509: certificate has expired or is not yet valid: 
+2020/12/28 16:34:20 Added to new Guild, id 686607027719766017, name servidor para probar bots
+2020/12/28 16:34:20 Added to new Guild, id 752232749523533854, name callejeros viajeros
+2020/12/28 16:34:20 HTTP 403 Forbidden, {"message": "Missing Access", "code": 50001}
+2020/12/28 16:34:20 Updated members for guild 752232749523533854
+2020/12/28 16:34:20 HTTP 403 Forbidden, {"message": "Missing Access", "code": 50001}
+2020/12/28 16:34:20 Updated members for guild 686607027719766017
+2020/12/28 16:34:23 phase received from capture:  0
+2020/12/28 16:34:23 Pushing phase event to channel
+2020/12/28 16:34:23 Received PhaseUpdate message for guild 752232749523533854
+2020/11/07 16:36:06 phase received from capture:  3
+2020/11/07 16:36:06 Pushing phase event to channel
+2020/11/07 16:36:06 Received PhaseUpdate message for guild 752232749523533854
+2020/11/07 16:36:06 Detected transition to Menu; not doing anything about it yet
+2020/11/07 16:36:08 Applied deaf/undeaf mute/unmute via voiceStateChange
+2020/11/07 16:36:08 Updating state message
+2020/11/07 16:36:08 Issuing update request to discord for userID 234395307759108106 with mute=false deaf=false
+2020/11/07 16:36:09 Applied deaf/undeaf mute/unmute via voiceStateChange
+2020/11/07 16:36:09 Updating state message
+2020/11/07 16:36:09 Applied deaf/undeaf mute/unmute via voiceStateChange
+2020/11/07 16:36:09 Updating state message
+2020/11/07 16:36:09 Issuing update request to discord for userID 234395307759108106 with mute=false deaf=false
+2020/11/07 16:36:09 Issuing update request to discord for userID 234395307759108106 with mute=false deaf=false
+2020/11/07 16:36:09 Applied deaf/undeaf mute/unmute via voiceStateChange
+2020/11/07 16:36:09 Updating state message
+2020/11/07 16:36:09 Issuing update request to discord for userID 234395307759108106 with mute=false deaf=false
+2020/11/07 16:36:09 Applied deaf/undeaf mute/unmute via voiceStateChange
+2020/11/07 16:36:09 Updating state message
+2020/11/07 16:36:10 Issuing update request to discord for userID 234395307759108106 with mute=false deaf=false
+2020/11/07 16:36:10 Applied deaf/undeaf mute/unmute via voiceStateChange
+2020/11/07 16:36:10 Updating state message
+2020/11/07 16:36:10 Applied deaf/undeaf mute/unmute via voiceStateChange
+2020/11/07 16:36:10 Updating state message
+2020/11/07 16:36:10 Issuing update request to discord for userID 234395307759108106 with mute=false deaf=false
+2020/11/07 16:36:10 Applied deaf/undeaf mute/unmute via voiceStateChange
+2020/11/07 16:36:10 Updating state message
+2020/11/07 16:36:10 Issuing update request to discord for userID 234395307759108106 with mute=false deaf=false
+2020/11/07 16:36:10 Issuing update request to discord for userID 234395307759108106 with mute=false deaf=false
+2020/11/07 16:36:10 Applied deaf/undeaf mute/unmute via voiceStateChange
+2020/11/07 16:36:10 Updating state message
+2020/11/07 16:36:10 Applied deaf/undeaf mute/unmute via voiceStateChange
+2020/11/07 16:36:10 Updating state message
+2020/11/07 16:36:10 Issuing update request to discord for userID 234395307759108106 with mute=false deaf=false
+2020/11/07 16:36:11 Issuing update request to discord for userID 234395307759108106 with mute=false deaf=false
+2020/11/07 16:36:11 Applied deaf/undeaf mute/unmute via voiceStateChange
+2020/11/07 16:36:11 Updating state message
+2020/11/07 16:36:11 Applied deaf/undeaf mute/unmute via voiceStateChange
+2020/11/07 16:36:11 Updating state message
+2020/11/07 16:36:11 Issuing update request to discord for userID 234395307759108106 with mute=false deaf=false
+2020/11/07 16:36:11 Issuing update request to discord for userID 234395307759108106 with mute=false deaf=false
+2020/11/07 16:36:25 Applied deaf/undeaf mute/unmute via voiceStateChange
+2020/11/07 16:36:25 Updating state message
+2020/11/07 16:36:25 Issuing update request to discord for userID 234395307759108106 with mute=false deaf=false
+2020/11/07 16:36:25 Applied deaf/undeaf mute/unmute via voiceStateChange
+2020/11/07 16:36:25 Updating state message
+2020/11/07 16:36:26 Issuing update request to discord for userID 234395307759108106 with mute=false deaf=false
+2020/11/07 16:36:26 Applied deaf/undeaf mute/unmute via voiceStateChange
+2020/11/07 16:36:26 Updating state message
+2020/11/07 16:36:26 Issuing update request to discord for userID 234395307759108106 with mute=false deaf=false
+2020/11/07 16:36:26 Applied deaf/undeaf mute/unmute via voiceStateChange
+2020/11/07 16:36:26 Updating state message
+2020/11/07 16:36:26 Issuing update request to discord for userID 234395307759108106 with mute=false deaf=false
+2020/11/07 16:36:26 Applied deaf/undeaf mute/unmute via voiceStateChange
+2020/11/07 16:36:26 Updating state message
+2020/11/07 16:36:26 Applied deaf/undeaf mute/unmute via voiceStateChange
+2020/11/07 16:36:26 Updating state message
+2020/11/07 16:36:26 Issuing update request to discord for userID 234395307759108106 with mute=false deaf=false
+2020/11/07 16:36:26 Applied deaf/undeaf mute/unmute via voiceStateChange
+2020/11/07 16:36:26 Updating state message
+2020/11/07 16:36:26 Issuing update request to discord for userID 234395307759108106 with mute=false deaf=false
+2020/11/07 16:36:27 Issuing update request to discord for userID 234395307759108106 with mute=false deaf=false
+2020/11/07 16:36:27 Applied deaf/undeaf mute/unmute via voiceStateChange
+2020/11/07 16:36:27 Updating state message
+2020/11/07 16:36:27 Applied deaf/undeaf mute/unmute via voiceStateChange
+2020/11/07 16:36:27 Updating state message
+2020/11/07 16:36:27 Issuing update request to discord for userID 234395307759108106 with mute=false deaf=false
+2020/11/07 16:36:27 Applied deaf/undeaf mute/unmute via voiceStateChange
+2020/11/07 16:36:27 Updating state message
+2020/11/07 16:36:27 Issuing update request to discord for userID 234395307759108106 with mute=false deaf=false
+2020/11/07 16:36:27 Issuing update request to discord for userID 234395307759108106 with mute=false deaf=false
+2020/11/07 16:36:27 Applied deaf/undeaf mute/unmute via voiceStateChange
+2020/11/07 16:36:27 Updating state message
+2020/11/07 16:36:27 Issuing update request to discord for userID 234395307759108106 with mute=false deaf=false
+2020/11/07 16:36:32 HTTP 400 Bad Request, {"message": "Target user is not connected to voice.", "code": 40032}
+2020/11/07 16:36:32 HTTP 400 Bad Request, {"message": "Target user is not connected to voice.", "code": 40032}
+2020/11/07 16:36:32 HTTP 400 Bad Request, {"message": "Target user is not connected to voice.", "code": 40032}
+2020/04/01 16:36:20 phase received from capture:  0
+2020/04/01 16:36:20 Pushing phase event to channel
+2020/04/01 16:36:20 Received PhaseUpdate message for guild 752232749523533854
+2020/04/01 16:36:34 player received from capture:  {"Action":0,"Name":"","IsDead":false,"Disconnected":false,"Color":0}
+2020/04/01 16:36:34 Received PlayerUpdate message for guild 752232749523533854
+2020/04/01 16:36:34 player received from capture:  {"Action":0,"Name":"SoyPeter","IsDead":false,"Disconnected":false,"Color":8}
+2020/04/01 16:36:34 player received from capture:  {"Action":1,"Name":"","IsDead":false,"Disconnected":false,"Color":0}
+2020/04/01 16:36:34 Received PlayerUpdate message for guild 752232749523533854
+2020/04/01 16:36:34 Added new player instance for SoyPeter
+2020/04/01 16:36:34 Received PlayerUpdate message for guild 752232749523533854
+2020/04/01 16:36:35 player received from capture:  {"Action":0,"Name":"","IsDead":false,"Disconnected":false,"Color":0}
+2020/04/01 16:36:35 Received PlayerUpdate message for guild 752232749523533854
+2020/04/01 16:36:35 player received from capture:  {"Action":0,"Name":"a\u00F1a\u00F1a\u00F1a","IsDead":false,"Disconnected":false,"Color":5}
+2020/04/01 16:36:35 player received from capture:  {"Action":1,"Name":"","IsDead":false,"Disconnected":false,"Color":0}
+2020/04/01 16:36:35 Received PlayerUpdate message for guild 752232749523533854
+2020/04/01 16:36:35 Added new player instance for añañaña
+2020/04/01 16:36:35 Received PlayerUpdate message for guild 752232749523533854
+2020/04/01 16:37:43 Client connection closed:  client namespace disconnect
+2020/04/01 16:37:43 Deassociated websocket id 2 with guildID 752232749523533854
+2020/04/01 16:37:43 meet error: websocket: close 1006 (abnormal closure): unexpected EOF
